@@ -3,4 +3,4 @@ The [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set) is a set of c
 
 This program utilizes Google's TensorFlow library to create a visualisation of the Mandelbrot set.
 
-![Mandelbrot set image](https://www.tensorflow.org/images/mandelbrot_output.jpg)
+![Mandelbrot set image](https://www.tensorflow.org/images/mandelbrot_output.jpg =250x)
